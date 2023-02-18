@@ -1,12 +1,12 @@
-<h3 align="center"> Connect with Me </h3>
+<h4 align="center"> Connect with Me </h4>
 <p align="center">
 <a href="https://twitter.com/dhiraj_mahajan7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dhiraj_mahajan7" height="30" width="40" /></a> &nbsp;&nbsp;
 <a href="https://linkedin.com/in/dhiraj-mahajan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhiraj-mahajan" height="30" width="40" /></a> &nbsp;&nbsp;
 <a href="https://stackoverflow.com/users/dhiraj-mahajan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="dhiraj-mahajan" height="30" width="40" /></a>
 </p>
-
+<br>
 <h1 align="center">Hi 👋, I'm Dhiraj Mahajan.</h1>
-<h3 align="center">Currently I pursuing Bachelor of Computer Application (BCA Degree).</h3>
+<h3 align="center">Currently I pursuing Bachelor of Computer Application ( BCA ).</h3>
 <img align="right"  alt="coding" width="420"  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhirajnmahajan&label=Profile%20views&color=0e75b6&style=flat" alt="dhirajnmahajan" /> </p>
@@ -37,4 +37,4 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhirajnmahajan&show_icons=true&locale=en&layout=compact" alt="dhirajnmahajan" />
   </p>
 <br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=dhirajnmahajan&show_icons=true&locale=en" alt="dhirajnmahajan" /><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=dhirajnmahajan&" alt="dhirajnmahajan" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=dhirajnmahajan&show_icons=true&locale=en" alt="dhirajnmahajan" width="460" /><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=dhirajnmahajan&" alt="dhirajnmahajan" width="460"/></p>
