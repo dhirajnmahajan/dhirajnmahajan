@@ -37,4 +37,4 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhirajnmahajan&show_icons=true&locale=en&layout=compact" alt="dhirajnmahajan" />
   </p>
 <br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=dhirajnmahajan&show_icons=true&locale=en" alt="dhirajnmahajan" width="460" /><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=dhirajnmahajan&" alt="dhirajnmahajan" width="460"/></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=dhirajnmahajan&show_icons=true&locale=en" alt="dhirajnmahajan" width="400" /><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=dhirajnmahajan&" alt="dhirajnmahajan" width="400"/></p>
