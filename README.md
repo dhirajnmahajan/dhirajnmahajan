@@ -6,7 +6,7 @@
 </p>
 <br>
 <h1 align="center">Hi 👋, I'm Dhiraj Mahajan.</h1>
-<h3 align="center">Currently I pursuing Bachelor of Computer Application ( BCA ).</h3>
+<h3 align="center">Currently I pursuing Master of Computer Application ( MCA ).</h3>
 <img align="right"  alt="coding" width="420"  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhirajnmahajan&label=Profile%20views&color=0e75b6&style=flat" alt="dhirajnmahajan" /> </p>
